@@ -6,5 +6,8 @@ public class LogIn {
 	{
 		
 	}
+	void add()
+	{
+	}
 
 }
